@@ -181,7 +181,7 @@ def main():
     init_gl()
 
     # só agora podemos carregar texturas!
-    fn_skull = "zoombi.png"
+    fn_skull = "t2.png"
     fn_drone = "drone.png"
     tex_skull = load_texture(fn_skull)
     tex_drone = load_texture(fn_drone)
